@@ -8,5 +8,11 @@ members:
 - Linda
 - William
 - David
+<<<<<<< HEAD
 - George 
 - Kim
+=======
+- George
+- Tyler
+- Park 
+>>>>>>> conflict
